@@ -23,12 +23,12 @@ text-align: center;
 
 .headone{
 
-
+display: flex;
 
 }
 
 .headonepar{
-
+display: flex;
 
 
 }
@@ -84,6 +84,7 @@ text-align: center;
 
 
 }
+
 
 body{
 
